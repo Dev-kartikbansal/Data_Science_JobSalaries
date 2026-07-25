@@ -1,3 +1,9 @@
+# Analysis on `Data Science Job Salaries`
+
+## Overview
+
+This project analyzes global Data Science job salaries using interactive data visualization and exploratory data analysis techniques. The objective is to identify salary trends, compare compensation across countries, experience levels, job roles, and employment types, and uncover key insights into the data science job market.
+
 <img width="2276" height="1205" alt="image" src="https://github.com/user-attachments/assets/2786d4e0-24f0-4491-9cf3-5e67ab2c818b" /><img width="2276" height="1205" alt="image" src="https://github.com/user-attachments/assets/fbd45d74-a6ec-4284-bdc3-05c09b7187ac" /><img width="2276" height="1205" alt="image" src="https://github.com/user-attachments/assets/86e1e451-0e2b-41b7-a31f-38ae81f72926" /># Data Science Job Salaries – Tableau Project
 
 
