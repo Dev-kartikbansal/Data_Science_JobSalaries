@@ -12,40 +12,17 @@ It includes the Tableau workbook, source dataset, and supporting documentation (
 
 ---
 
-## 📂 Repository Structure
-Data_Science_JobSalaries/
-│── tableau/ # Tableau packaged workbook (.twbx)
-│── data/ # Dataset(s) used in the analysis (.xlsx, .csv)
-│── reports/ # Project report (.docx) & presentation (.pptx)
-│── README.md # Documentation (this file)
-
-
-
----
-
 ## 📊 Dashboard Overview
 The Tableau dashboard provides insights on:
 - Average salaries by **job title** and **experience level**  
 - Salary distribution across **employment types** (Full-time, Part-time, Contract, etc.)  
 - Geographic comparison of salaries by **region** and **country**  
-- Trends in **salary growth** and demand for data roles  
+- Trends in **salary growth** and demand for data roles.
+  ---
 
----
+## 👨‍💻 Author
 
-## 🗂 Files Included
-- **`tableau/dashboard.twbx`** → Interactive Tableau packaged workbook  
-- **`data/dataset.xlsx`** → Dataset used for analysis  
-- **`reports/presentation.pptx`** → Project presentation slides  
-- **`reports/report.docx`** → Detailed written report  
+**Kartik**
 
----
+Data Analyst | Tableau | SQL | Python | Power BI
 
-## 🚀 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/MohitKumar987/Data_Science_JobSalaries.git
-2.Open tableau/dashboard.twbx in Tableau Desktop.
-
-3.If Tableau asks for data connections, link it to the file inside data/.
-
-4.Review the PPT and Word report in the reports/ folder for detailed documentation.
